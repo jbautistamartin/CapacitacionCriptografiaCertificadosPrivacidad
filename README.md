@@ -1,4 +1,4 @@
-# Capacitación Criptografía, Certificados y Privacidad en Internet
+# CAPACITACIÓN CRIPTOGRAFÍA, CERTIFICADOS Y PRIVACIDAD EN INTERNET
 
 ## ACERCA DEL INSTRUCTOR
 
@@ -33,4 +33,4 @@ Los ejemplos de creación de certificado se encuentran en estas carpetas:
 
 Están basados en los expuesto en https://jamielinux.com/docs/openssl-certificate-authority/
 
-** Nota importante: Nunca usar los certificados expuesto aquí como productivos, genere siempre sus propias llaves privadas. **
+**Nota importante: Nunca usar los certificados expuesto aquí como productivos, genere siempre sus propias llaves privadas.**
