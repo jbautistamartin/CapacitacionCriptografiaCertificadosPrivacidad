@@ -23,3 +23,14 @@ Sera una conferencia de dos horas, en la que la primera hora se comentara sobre 
 ## REQUISITOS
 
 No requiere ningún requisito en especial, si los asistentes quieren acompañar al instructor en la realización de los ejemplos de criptografía, deberán llevar una laptop, pero no es imprescindible.
+
+## EJEMPLOS
+
+Los ejemplos de creación de certificado se encuentran en estas carpetas:
+
+* Certificadora Inicial: Ejemplo de las estructura de certificados **antes** de realizar los ejercicios.
+* Certificadora Final: Ejemplo de las estructura de certificados **después** de realizar los ejercicios.
+
+Están basados en los expuesto en https://jamielinux.com/docs/openssl-certificate-authority/
+
+** Nota importante: Nunca usar los certificados expuesto aquí como productivos, genere siempre sus propias llaves privadas. **
