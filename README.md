@@ -34,3 +34,31 @@ Los ejemplos de creación de certificado se encuentran en estas carpetas:
 Están basados en los expuesto en https://jamielinux.com/docs/openssl-certificate-authority/
 
 **Nota importante: Nunca use los certificados expuesto aquí como productivos, genere siempre sus propias llaves privadas.**
+
+
+## CONTENIDO
+
+* Acerca del instructor
+* Acerca de este documento
+* Objetivos del curso
+* Contenido
+* Metodología
+* Requisitos
+* Introducción
+* Breve historia de las criptografía
+* Breve historia de Internet
+* Seguridad en internet
+* Privacidad en internet
+	* Caso espionaje NSA
+	* Caso del teléfono el terrorista de San Bernardino
+	* Caso Cambridge Analítica
+* Tipos de criptografía
+	* Criptografía simétrica
+	* Criptografía asimétrica
+* Certificados
+	* Entidades certificadoras
+	* Entidades intermediarias
+	* Certificados personales
+	* Configuración de certificados con GnuGPG
+* Anexo I: Ejemplos de certificados
+* Anexo II: Extensiones de archivos criptograficos
